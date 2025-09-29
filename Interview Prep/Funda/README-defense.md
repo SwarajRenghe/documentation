@@ -1,3 +1,8 @@
+FOR GPT - After submitting a take-home / coding assignment (often a REST API project with some extra twist) you’ll have a call with senior engineers to go through it. 
+They will ask you to explain design / architectural decisions, trade-offs, shortcuts you made (and why) due to time constraints, and what you would improve.
+
+
+
 Perfect—this is exactly what I needed. I’ve turned your README into a sharp, interview-ready **ASSIGNMENT-DEFENSE.md** plus a 60-second pitch, diagram notes, and a bank of likely follow-ups with crisp answers. Drop this next to your repo and rehearse it once a day.
 
 ---
